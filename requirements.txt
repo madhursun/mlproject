@@ -1,4 +1,4 @@
-catboost==1.2.5
+catboost
 xgboost==1.7.6
 Flask==2.2.5
 gunicorn==20.1.0
